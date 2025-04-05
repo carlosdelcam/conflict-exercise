@@ -1,5 +1,5 @@
 # conflict-exercise
 Repositorio Practica Parte 3  TP2
 
+Se realizaron dos cambios a README.md desde su creación 
 
-Este es un nuevo cambio escrito en Readme y en la rama main. 
